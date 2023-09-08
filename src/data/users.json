@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "5a23fe6c-4575-4fa5-9404-44e39136b09d",
+      "email": "user.one@hotmail.com",
+      "username": "user.one",
+      "password": "contraseña1234"
+    },
+    {
+      "id": "59062b9c-24a3-43bd-b4ff-13031c3730bd",
+      "email": "user.two@hotmail.com",
+      "username": "user.two",
+      "password": "contraseña1234"
+    }
+  ]
+}

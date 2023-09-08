@@ -1,0 +1,412 @@
+{
+  "products": [
+    {
+      "id": "TS-8723641",
+      "title": "Remera Camiseta De Futbol Del Inter De Miami",
+      "price": 14000,
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_767130-MLA70485726327_072023-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_796259-MLA70062127888_062023-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_791506-MLA70775564712_072023-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_812499-MLA70775537402_072023-O.webp"
+      ],
+      "sizes": ["6", "8", "10", "12", "14", "16", "s", "m", "l", "xl", "xxl"],
+      "categories": [
+        "Ropa y Accesorios",
+        "Ropa Deportiva",
+        "Remeras y Chombas"
+      ],
+      "colors": ["Negro", "Rosa"],
+      "description": "Camiseta importada del inter de miami de excelente calidad. viene con el numero 10 de Messi, logo de equipo y marca igual que original. hacemos envíos a todo el país. Talle 16: Ancho 45cm - Largo 63cm  Garantía del vendedor: 30 días",
+      "features": [
+        { "Tipo de cuello": "Redondo" },
+        { "Deportes recomendados": "Fútbol" },
+        { "Marca": "Genérica" },
+        { "Género": "Hombre" }
+      ],
+      "mainFeatures": [
+        { "Marca": "Génerica" },
+        { "Modelo": "camiseta" },
+        { "Edad": "Adultos" },
+        { "Género": "Hombre" }
+      ],
+      "otherFeatures": [
+        { "Deportes recomendados": "Fútbol" },
+        { "Género": "Hombre" },
+        { "Material": "Pol" }
+      ]
+    },
+    {
+      "id": "TS-4976138",
+      "title": "Zapatillas Deportivas Nike Air Max 270",
+      "price": 24000,
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_915356-MLA48000495201_102021-O.webp",
+        "https://www.digitalsport.com.ar/files/products/5ac3e3bc980a8-436245-1200x1200.jpg",
+        "https://media.s-bol.com/m6BoZw340MgE/75JRmA/250x200.jpg",
+        "https://down-cl.img.susercontent.com/file/298e35805db513882e790b2c49ece82b"
+      ],
+      "sizes": ["36", "37", "38", "39", "40", "41", "42", "43", "44", "45"],
+      "categories": ["Ropa y Accesorios", "Calzado", "Zapatillas Deportivas"],
+      "colors": ["Blanco", "Negro", "Rojo"],
+      "description": "Zapatillas deportivas Nike Air Max 270 con tecnología de amortiguación. Ideales para running y actividades deportivas. Disponibles en varios colores y tallas.",
+      "features": [
+        { "Tecnología de amortiguación": "Air Max" },
+        { "Uso recomendado": "Running" },
+        { "Marca": "Nike" },
+        { "Género": "Unisex" }
+      ],
+      "mainFeatures": [
+        { "Tecnología de amortiguación": "Air Max" },
+        { "Modelo": "270" },
+        { "Género": "Unisex" },
+        { "Uso recomendado": "Running" }
+      ],
+      "otherFeatures": [
+        { "Material": "Tejido transpirable" },
+        { "Suela": "Caucho" },
+        { "Peso": "Ligero" }
+      ]
+    },
+    {
+      "id": "TS-1589724",
+      "title": "Remera Manga Corta Estampada",
+      "price": 8000,
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_630583-MLA52430925467_112022-O.webp",
+        "https://amjeans.com.ar/wp-content/uploads/2020/05/remera-mickey.png",
+        "https://acdn.mitiendanube.com/stores/001/623/800/products/remera-mickey-logo-azul1-7be00bdafbe08a64a516372502604442-480-0.png",
+        "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/623/800/products/remera-castillo-disney-negra-8aa08585c633a11c2216372412343185-480-0.png"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "categories": [
+        "Ropa y Accesorios",
+        "Ropa Deportiva",
+        "Remeras y Chombas"
+      ],
+      "colors": ["Azul", "Blanco", "Negro"],
+      "description": "Remera de manga corta con diseño estampado. Ideal para uso diario o actividades deportivas. Confeccionada con materiales de calidad.",
+      "features": [
+        { "Diseño estampado": "Sí" },
+        { "Uso recomendado": "Casual" },
+        { "Género": "Unisex" },
+        { "Material": "Algodón" }
+      ],
+      "mainFeatures": [
+        { "Diseño estampado": "Sí" },
+        { "Modelo": "Manga Corta" },
+        { "Género": "Unisex" },
+        { "Uso recomendado": "Casual" }
+      ],
+      "otherFeatures": [
+        { "Cuello": "Redondo" },
+        { "Estilo": "Modern Fit" },
+        { "Comodidad": "Transpirable" }
+      ]
+    },
+    {
+      "id": "TS-4625873",
+      "title": "Pantalones Deportivos Adidas Essentials",
+      "price": 12000,
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_867264-MLA71048984509_082023-O.webp",
+        "https://img01.ztat.net/article/spp-media-p1/d085ff61f9a74c098f1c3f391bba2d8b/3c8d0590171f4909b7503ce0f7af5b96.jpg?imwidth=1800&filter=packshot",
+        "https://falabella.scene7.com/is/image/Falabella/16812830_1?wid=800&hei=800&qlt=70",
+        "https://falabella.scene7.com/is/image/Falabella/16812837_1?wid=800&hei=800&qlt=70",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXLeJfQtf0f6d9xnjG3B_Wy1RAhH-L0qqOkGUiUkD5t6zLn8UA4dJkeUWXorbKh37gdQ&usqp=CAU"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "categories": [
+        "Ropa y Accesorios",
+        "Ropa Deportiva",
+        "Pantalones Deportivos"
+      ],
+      "colors": ["Gris", "Negro"],
+      "description": "Pantalones deportivos Adidas Essentials ideales para entrenamiento. Confeccionados con materiales cómodos y resistentes. Ajuste elástico en la cintura.",
+      "features": [
+        { "Uso recomendado": "Entrenamiento" },
+        { "Marca": "Adidas" },
+        { "Género": "Unisex" },
+        { "Material": "Poliéster" }
+      ],
+      "mainFeatures": [
+        { "Modelo": "Essentials" },
+        { "Tipo": "Pantalones Deportivos" },
+        { "Género": "Unisex" },
+        { "Uso recomendado": "Entrenamiento" }
+      ],
+      "otherFeatures": [
+        { "Cintura": "Elástica" },
+        { "Bolsillos": "Laterales" },
+        { "Comodidad": "Transpirable" }
+      ]
+    },
+    {
+      "id": "TS-9302165",
+      "title": "Zapatillas Casuales Converse Chuck Taylor All Star",
+      "price": 18000,
+      "images": [
+        "https://www.backflowstore.com.ar/images/000000000157197C67919PORTADA.jpg",
+        "https://m.media-amazon.com/images/I/71DnhLAyerL._AC_UY780_.jpg",
+        "https://www.runningcorrer.com.ar/wprunning/wp-content/uploads/2022/05/Converse-Chuck-Taylor-All-Star-blanca.jpg",
+        "https://www.converse.com/dw/image/v2/BJJF_PRD/on/demandware.static/-/Sites-cnv-master-catalog-we/default/dw55cd2c39/images/d_08/M7650_D_08X1.jpg"
+      ],
+      "sizes": ["35", "36", "37", "38", "39", "40", "41", "42"],
+      "categories": ["Ropa y Accesorios", "Calzado", "Zapatillas Casuales"],
+      "colors": ["Blanco", "Negro"],
+      "description": "Zapatillas casuales Converse Chuck Taylor All Star, un clásico atemporal. Perfectas para combinar con cualquier outfit. Diseño icónico y duradero.",
+      "features": [
+        { "Estilo icónico": "Chuck Taylor" },
+        { "Uso recomendado": "Casual" },
+        { "Marca": "Converse" },
+        { "Género": "Unisex" }
+      ],
+      "mainFeatures": [
+        { "Estilo icónico": "Chuck Taylor" },
+        { "Modelo": "All Star" },
+        { "Género": "Unisex" },
+        { "Uso recomendado": "Casual" }
+      ],
+      "otherFeatures": [
+        { "Material": "Lona resistente" },
+        { "Suela": "Caucho vulcanizado" },
+        { "Comodidad": "Clásica" }
+      ]
+    },
+    {
+      "id": "TS-7185420",
+      "title": "Zapatillas Running Nike Air Zoom Pegasus",
+      "price": 18000,
+      "images": [
+        "https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/z/a/zapatillas-running-nike-air-zoom-pegasus-36-azul-510010aq2203401-11.jpg",
+        "https://essential.vtexassets.com/arquivos/ids/984219/316-6262_2.jpg?v=638270495157730000",
+        "https://www.tradeinn.com/f/13803/138030712/nike-zapatillas-running-air-zoom-pegasus-38.jpg",
+        "https://www.retrojordan2021.com/wp-content/uploads/2021/05/new-nike-air-zoom-pegasus-37-white-pure-platinum-black-bq9646-100-600x401.png"
+      ],
+      "sizes": ["7", "8", "9", "10", "11", "12"],
+      "categories": ["Ropa y Accesorios", "Calzado", "Zapatillas Deportivas"],
+      "colors": ["Negro", "Blanco", "Azul"],
+      "description": "Zapatillas de running ideales para entrenamientos diarios. Amortiguación y comodidad garantizadas.",
+      "features": [
+        { "Tipo de cierre": "Cordones" },
+        { "Deportes recomendados": "Running" },
+        { "Marca": "Nike" },
+        { "Género": "Unisex" }
+      ],
+      "mainFeatures": [
+        { "Marca": "Nike" },
+        { "Modelo": "Air Zoom Pegasus" },
+        { "Uso": "Running" },
+        { "Género": "Unisex" }
+      ],
+      "otherFeatures": [
+        { "Tecnología de amortiguación": "Zoom Air" },
+        { "Género": "Unisex" },
+        { "Material exterior": "Malla transpirable" }
+      ]
+    },
+    {
+      "id": "TS-6250398",
+      "title": "Pantalones Vaqueros Levi's 501 Original Fit",
+      "price": 16000,
+      "images": [
+        "https://m.media-amazon.com/images/I/41MPo4WICgL.jpg",
+        "https://www.worten.es/i/0ad88ada8a74692a19bc1d149ac1f4c9f246e68f.jpg",
+        "https://lojalevis.vtexassets.com/arquivos/ids/487535-800-800?v=638005705615700000&width=800&height=800&aspect=true",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi_n40yt_XWROp6z7wVVlGtya_s08I6eVHNBX8zNZU43kN97S_ke25A3SlAcPcFSkiRNY&usqp=CAU"
+      ],
+      "sizes": ["28", "30", "32", "34", "36"],
+      "categories": ["Ropa y Accesorios", "Calzado", "Pantalones Vaqueros"],
+      "colors": ["Azul Claro", "Azul Oscuro"],
+      "description": "Pantalones vaqueros de estilo clásico. Corte recto y diseño duradero.",
+      "features": [
+        { "Tipo de cierre": "Botón y cierre" },
+        { "Estilo": "Clásico" },
+        { "Marca": "Levi's" },
+        { "Género": "Unisex" }
+      ],
+      "mainFeatures": [
+        { "Marca": "Levi's" },
+        { "Modelo": "501 Original Fit" },
+        { "Estilo": "Clásico" },
+        { "Género": "Unisex" }
+      ],
+      "otherFeatures": [
+        { "Composición": "Algodón 100%" },
+        { "Género": "Unisex" },
+        { "Cuidado": "Lavar a máquina" }
+      ]
+    },
+    {
+      "id": "TS-3897152",
+      "title": "Camiseta Manga Larga Under Armour HeatGear",
+      "price": 12000,
+      "images": [
+        "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwfa9a69a4/products/UA1361524-001/UA1361524-001-1.JPG",
+        "https://sporting.vtexassets.com/arquivos/ids/785589/UAI0461-090-1.png?v=638187356063230000",
+        "https://m.media-amazon.com/images/I/710PLbdg4zL._AC_UY1000_.jpg",
+        "https://underarmour.scene7.com/is/image/Underarmour/V5-1361506-001_FC?rp=standard-0pad|pdpZoomDesktop&scl=0.72&fmt=jpg&qlt=85&resMode=sharp2&cache=on,on&bgc=f0f0f0&wid=1836&hei=1950&size=1500,1500"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "categories": ["Ropa y Accesorios", "Ropa Deportiva", "Camisetas"],
+      "colors": ["Gris", "Negro"],
+      "description": "Camiseta de manga larga ideal para entrenamientos. Tecnología HeatGear para mantener la frescura.",
+      "features": [
+        { "Tipo de cuello": "Redondo" },
+        { "Deportes recomendados": "Fitness" },
+        { "Marca": "Under Armour" },
+        { "Género": "Unisex" }
+      ],
+      "mainFeatures": [
+        { "Marca": "Under Armour" },
+        { "Modelo": "HeatGear" },
+        { "Deportes recomendados": "Fitness" },
+        { "Género": "Unisex" }
+      ],
+      "otherFeatures": [
+        { "Tecnología de tejido": "HeatGear" },
+        { "Género": "Unisex" },
+        { "Material": "Poliéster/elastano" }
+      ]
+    },
+    {
+      "id": "TS-2498763",
+      "title": "Silla de Oficina Ergonómica",
+      "price": 28000,
+      "images": [
+        "https://smart-office.com.ar/wp-content/uploads/2016/11/venta-silla-gerencial-ceo-ergonomica-3.jpg",
+        "https://spacio.es/wp-content/uploads/2022/10/silla_inga_1.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOIrV0leyzwndn94vtx65-iCn9EoiQj60G3IHS52MXZAya9MmSeBo0GaYHehuus41n86c&usqp=CAU",
+        "https://m.media-amazon.com/images/I/61e-O3mVb0L._AC_UF894,1000_QL80_.jpg"
+      ],
+      "sizes": ["Única"],
+      "categories": [
+        "Hogar y Muebles",
+        "Muebles de Oficina",
+        "Sillas Ergonómicas"
+      ],
+      "colors": ["Negro", "Gris"],
+      "description": "Silla de oficina diseñada para brindar comodidad y soporte lumbar durante largas jornadas de trabajo.",
+      "features": [
+        { "Tipo de silla": "Ergonómica" },
+        { "Uso recomendado": "Oficina" },
+        { "Material": "Poliéster y metal" },
+        { "Ajustes": "Altura y reclinación" }
+      ],
+      "mainFeatures": [
+        { "Marca": "Genérica" },
+        { "Modelo": "ErgoOffice" },
+        { "Uso recomendado": "Oficina" },
+        { "Género": "Unisex" }
+      ],
+      "otherFeatures": [
+        { "Soporte lumbar": "Sí" },
+        { "Peso máximo soportado": "120 kg" },
+        { "Material": "Poliéster y metal" }
+      ]
+    },
+    {
+      "id": "TS-7614028",
+      "title": "Mate Tradicional de Calabaza",
+      "price": 6000,
+      "images": [
+        "https://m.media-amazon.com/images/I/61fDoGnesgL.jpg",
+        "https://m.media-amazon.com/images/I/41emRwzT8mL._SL300_.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBrgDPjwbtBNTZ2EawYJdbPtzR_zLDK_bhiVHVPHPQecbJ8RKzFwnDZkCN3go3WWyEpRs&usqp=CAU"
+      ],
+      "sizes": ["Única"],
+      "categories": [
+        "Hogar y Muebles",
+        "Menaje de Cocina",
+        "Mate y Accesorios"
+      ],
+      "colors": ["Natural", "Marrón"],
+      "description": "Mate tradicional hecho de calabaza natural, ideal para disfrutar de la tradicional infusión.",
+      "features": [
+        { "Material": "Calabaza natural" },
+        { "Incluye bombilla": "No" },
+        { "Origen": "Argentina" }
+      ],
+      "mainFeatures": [
+        { "Marca": "Genérica" },
+        { "Modelo": "Mate Tradicional" },
+        { "Incluye bombilla": "No" },
+        { "Género": "Unisex" }
+      ],
+      "otherFeatures": [
+        { "Capacidad": "250 ml" },
+        { "Instrucciones de cuidado": "Lavar a mano" },
+        { "Origen": "Argentina" }
+      ]
+    },
+    {
+      "id": "TS-5048719",
+      "title": "Mouse Inalámbrico para Computadora",
+      "price": 3500,
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_946105-MLA48161603624_112021-O.webp",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEeQBWY3HlBvvDhjvP-Adlc30dlBe-l5clGOVzK_jxH57ARZUm80_jm_UsXUbgAzDhODw&usqp=CAU",
+        "https://m.media-amazon.com/images/I/61FVw4AwHKL._AC_UF350,350_QL80_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51XMX1Xe2qL._AC_UL200_SR200,200_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51eo1v7SEGS._AC_UL200_SR200,200_.jpg"
+      ],
+      "sizes": ["Único"],
+      "categories": [
+        "Electrónica",
+        "Accesorios de Computadora",
+        "Mouse y Teclados"
+      ],
+      "colors": ["Negro", "Gris"],
+      "description": "Mouse inalámbrico ergonómico para una navegación cómoda en tu computadora.",
+      "features": [
+        { "Conectividad": "Bluetooth" },
+        { "Tipo de mouse": "Óptico" },
+        { "Botones programables": "Sí" },
+        { "Compatibilidad": "Windows y macOS" }
+      ],
+      "mainFeatures": [
+        { "Marca": "TechMouse" },
+        { "Modelo": "Wireless Pro" },
+        { "Conectividad": "Bluetooth" },
+        { "Género": "Unisex" }
+      ],
+      "otherFeatures": [
+        { "Diseño ergonómico": "Sí" },
+        { "Alcance inalámbrico": "10 metros" },
+        { "Compatibilidad": "Windows y macOS" }
+      ]
+    },
+    {
+      "id": "TS-1839564",
+      "title": "Pelota de Fútbol Adidas Tango España",
+      "price": 15000,
+      "images": [
+        "https://i.pinimg.com/1200x/0a/a9/4f/0aa94f31c6bf757472d47eed684d0e49.jpg",
+        "https://media.futbolmania.com/media/catalog/product/cache/1/image/0f330055bc18e2dda592b4a7c3a0ea22/B/P/BP8679-5_balon-de-futbol-adidas-tango-rosario-naranja_1_frontal.jpg",
+        "https://www.digitalsport.com.ar/files/products/59dd490e5e382-424951-1200x1200.jpg",
+        "https://cdnb.20m.es/que-paso-en-el-mundial/files/2014/06/AAA-TANGO.jpg"
+      ],
+      "sizes": ["5"],
+      "categories": ["Deportes y Fitness", "Fútbol", "Pelotas de Fútbol"],
+      "colors": ["Blanco", "Rojo", "Amarillo"],
+      "description": "Pelota de fútbol oficial con diseño Tango y detalles de la selección de España.",
+      "features": [
+        { "Tipo de pelota": "Oficial" },
+        { "Deporte": "Fútbol" },
+        { "Marca": "Adidas" },
+        { "País": "España" }
+      ],
+      "mainFeatures": [
+        { "Marca": "Adidas" },
+        { "Modelo": "Tango España" },
+        { "Deporte": "Fútbol" },
+        { "Género": "Unisex" }
+      ],
+      "otherFeatures": [
+        { "Construcción": "32 paneles cosidos a máquina" },
+        { "Uso recomendado": "Cancha de césped" },
+        { "País": "España" }
+      ]
+    }
+  ]
+}
